@@ -1,4 +1,4 @@
-# EX. No.3.1. CREATE 3D MODEL FROM ORTHOGRAPHIC PROJECTION
+![Screenshot 2023-11-27 013122](https://github.com/04Varsha/EX.-No.-3.1.-CREATE-3D-MODEL-FROM-ORTHOGRAPHIC-PROJECTION/assets/149035374/e3d73486-acdb-459f-b8c1-a27b7594df0c)# EX. No.3.1. CREATE 3D MODEL FROM ORTHOGRAPHIC PROJECTION
 ## DATE:
 
 ## AIM:
@@ -40,7 +40,9 @@ To create a 3D model from given orthographic projection.
 ## INPUT:
 ![image](https://user-images.githubusercontent.com/113594316/198551872-276f8b80-bea8-4d4a-b2e8-bfdcd1e9d3cc.png)
 
-## OUTPUT:![Screenshot 2023-11-23 002325](https://github.com/04Varsha/EX.-No.-3.1.-CREATE-3D-MODEL-FROM-ORTHOGRAPHIC-PROJECTION/assets/149035374/9dc40361-1a97-4662-841e-ebb7e99a7fa9)
+
+## OUTPUT:![Screenshot 2023-11-27 013122](https://github.com/04Varsha/EX.-No.-3.1.-CREATE-3D-MODEL-FROM-ORTHOGRAPHIC-PROJECTION/assets/149035374/01c4b677-c647-4797-b336-2acbf1aae256)
+
 
 
 ## RESULT:
